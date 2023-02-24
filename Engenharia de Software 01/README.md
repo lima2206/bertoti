@@ -4,7 +4,6 @@
 ## "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
 ---
 ### A programação é a construção da tecnologia, porém assim como uma casa, é necessario um projeto e planejamento. A Engenharia de Software ataca os problemas relacionados ao desenvolvimento e eficiência de trabalho assim como os problemas futuros que provavelmente aparecerão, assim utilizando da melhor forma os programadores.
-<br>
 
 ### Um bom exemplo foi em um projeto de API realizado na *FATEC* que consistia em um **sistema de abertura de chamados para computadores com defeito**. por falta de conhecimento o planejamento não foi feito da melhor forma, resultando em diversos trabalhos redundantes e inúteis para o produto final.
 <br>
