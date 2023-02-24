@@ -7,4 +7,18 @@
 <br>
 
 ### Um bom exemplo foi em um projeto de API realizado na *FATEC* que consistia em um **sistema de abertura de chamados para computadores com defeito**. por falta de conhecimento o planejamento não foi feito da melhor forma, resultando em diversos trabalhos redundantes e inúteis para o produto final.
+<br>
 
+---
+<br>
+
+# Requisitos:
+## Requisitos são as tarefas necessárias para a conclusão de um produto.
+
+> - Requisitos funcionais, sendo as necessidades do cliente, são as tarefas necessárias extritamente para o operação do produto junto de suas funcionalidades.<br> 
+
+- Ex: Botão de cadastro de clientes (Software de cadastro).
+
+> - Requisitos não funcionais se dizem por uma soma entre qualidades e utilidades que para o funcionamento do produto são dispensáveis, porém, servem um papel fundamental no produto final.
+
+- Ex: Desempenho do sistema, Usabilidade, Segurança.
