@@ -9,7 +9,7 @@ Heurísticas Violadas: 1 e 8
 
 A aba de status está completamente vazia
 
----
+
 
 8 . Estética e Design Minimalista
 
@@ -23,6 +23,7 @@ Como exemplo negativo a falta de alinhamento quando acessado pelo celular prejud
 Heurísticas Violadas: 4
 
 4 . Consistência e Padrões
+
 <img src="img/Screenshot from 2023-11-21 20-58-47.png" height=300px width = 500px>
 
 Eu consigo ordenar as horas de todos os dias das semanas, menos a segunda-feira por algum motivo.
@@ -37,14 +38,14 @@ Heuristícas Violadas: 4, 7 e 8
 
 No primeiro eles estão ordenados de cima para baixo, no momento que clica em mostrar mais ele muda a ordenação
 
----
+
+
 8 . Estética e Design Minimalista
 
 <img src = "img/Screenshot from 2023-11-21 21-18-23.png" height=300 width=400>
 
-Ao selecionar para esconder certas partes de uma cifra (tabllaturas), ele não esconde a marcação de partes, poluindo o design 
+Ao selecionar para esconder certas partes de uma cifra (tablaturas), ele não esconde a marcação de partes, poluindo o design 
 
----
 
 7 . Flexibilidade e Eficiência
 
