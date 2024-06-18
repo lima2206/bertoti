@@ -2,4 +2,4 @@
 
 ---
 
-<img src="Observer Code/src/Observer Pattern.svg"><img/>
+<img src="Observer.svg"><img/>

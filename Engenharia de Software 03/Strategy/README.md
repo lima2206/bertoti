@@ -2,4 +2,4 @@
 
 ---
 
-<img src="Strategy Code/src/Strategy Pattern.svg"><img/>
+<img src="Strategy.svg"><img/>
